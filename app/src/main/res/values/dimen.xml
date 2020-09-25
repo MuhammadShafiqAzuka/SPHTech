@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin_half">8dp</dimen>
+    <dimen name="activity_vertical_margin_half">8dp</dimen>
+
+    <!-- Main Activity Dimens -->
+    <dimen name="card_view_margin_mobile_data">8dp</dimen>
+    <dimen name="card_view_padding_mobile_data">8dp</dimen>
+    <dimen name="text_size_data_usage_main_header">14sp</dimen>
+    <dimen name="text_size_data_usage_main_value">24sp</dimen>
+
+    <dimen name="quarter_details_container_padding">15dp</dimen>
+</resources>

@@ -3,4 +3,14 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="text_color_data_usage_main_header">#808080</color>
+    <color name="text_color_data_usage_main_value">#000000</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorLightGrey">#D3D3D3</color>
+    <color name="colorRed">#D31000</color>
+
+    <color name="quarter_status_increase_color">#007F00</color>
+    <color name="quarter_status_decrease_color">#9e0900</color>
 </resources>

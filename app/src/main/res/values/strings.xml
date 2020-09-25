@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">MainActivity</string>
+    <string name="app_name">Data Usage</string>
+
+    <string name="usage">Usage</string>
+    <string name="decrease_desc">Decrease</string>
+    <string name="result_count">Total results: %s</string>
+    <string name="result_count_offline">(Offline) Total results: %s</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="quarter">Q%s</string>
+    <string name="year">Year %s</string>
+
+    <string name="read_local_no_local">Failed to retrieve data from server and \"sph_records.csv\" file not found. </string>
+    <string name="read_local_has_local">Failed to retrieve data from server.
+        \n\nDo you want to read the file previously saved in your device?</string>
+    <string name="read_local">Reading from \"sph_records.csv\"… </string>
+
+    <string name="read_url_failed_no_local">Failed to retrieve data from server.</string>
+    <string name="read_url_failed_has_local">Failed to retrieve data from server.
+        \n\nDo you want to read the file previously saved in your device?</string>
+    <string name="read_url_failed_title">Retrieval Failed</string>
+
+    <string name="no_record_no_local">Please make sure the URL is valid.</string>
+    <string name="no_record_has_local">Please make sure the URL is valid.
+        \n\nDo you want to read the file previously saved in your device?</string>
+    <string name="no_record_title">No Record Found</string>
 </resources>
